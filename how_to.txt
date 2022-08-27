@@ -1,0 +1,17 @@
+conda install -c anaconda pandas
+conda install -c anaconda requests
+conda install -c conda-forge html5lib
+
+The first two are for data manipulation and the last one is for parsing the HTML.
+
+conda install -c conda-forge gspread
+
+This is for connecting to Google Sheets
+
+https://docs.gspread.org/en/latest/oauth2.html#for-end-users-using-oauth-client-id
+
+https://docs.gspread.org/en/latest/user-guide.html
+
+
+
+
