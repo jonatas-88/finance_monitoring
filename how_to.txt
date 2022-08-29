@@ -5,8 +5,9 @@ conda install -c conda-forge html5lib
 The first two are for data manipulation and the last one is for parsing the HTML.
 
 conda install -c conda-forge gspread
+pip install gspread-dataframe
 
-This is for connecting to Google Sheets
+This is for connecting to Google Sheets and interact with spreadsheets.
 
 https://docs.gspread.org/en/latest/oauth2.html#for-end-users-using-oauth-client-id
 
