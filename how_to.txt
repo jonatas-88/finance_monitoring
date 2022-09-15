@@ -1,4 +1,5 @@
 conda install -c anaconda pandas
+conda install -c anaconda lxml
 conda install -c anaconda requests
 conda install -c conda-forge html5lib
 
